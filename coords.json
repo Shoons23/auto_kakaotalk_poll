@@ -1,0 +1,13 @@
+{
+  "kakao_window": [233, 47],
+  "search_box": [1780, 138],
+  "more_button": [1400, 126],
+  "talk_board": [1402, 308],
+  "poll_tab": [458, 178],
+  "write_button": [767, 117],
+  "title_box": [381, 320],
+  "option1_box": [381, 381],
+  "add_option_button": [536, 557],
+  "multi_toggle": [359, 810],
+  "create_button": [669, 904]
+}
