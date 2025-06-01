@@ -2,6 +2,10 @@
 dongbu_venv*/
 
 
+# data
+coords.json
+run_kakao_poll
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

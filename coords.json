@@ -9,5 +9,6 @@
   "option1_box": [381, 381],
   "add_option_button": [536, 557],
   "multi_toggle": [359, 810],
-  "create_button": [669, 904]
+  "create_button": [669, 904],
+  "end_time_toggle": [360, 801]
 }
